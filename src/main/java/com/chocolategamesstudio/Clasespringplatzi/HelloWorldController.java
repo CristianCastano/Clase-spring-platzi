@@ -10,6 +10,6 @@ public class HelloWorldController {
 
     @GetMapping("/hola")
     public String sayHello(){
-        return "nunca pares de aprender \uD83D\uDE0E";
+        return "nunca pares de aprender que te dara dinero \uD83D\uDE0E";
     }
 }
