@@ -10,7 +10,7 @@ public class HelloWorldController {
 
     @GetMapping("/hola")
     public String sayHello(){
-        return "practicando nuevamente git \uD83D\uDE0E";
+        return "probando el tema de tener una rama distinta \uD83D\uDE0E";
     }
     // cambio para guardar
 }
